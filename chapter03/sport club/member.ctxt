@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=member
+comment0.text=\n\ Write\ a\ description\ of\ class\ member\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ year
+comment1.target=member(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ member\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=java.lang.String\ getMembership()
+comment5.params=
+comment5.target=void\ setStudent()
+comment6.params=newname
+comment6.target=void\ changeName(java.lang.String)
+numComments=7

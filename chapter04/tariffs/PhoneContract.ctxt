@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PhoneContract
+comment0.text=\n\ Maintain\ details\ of\ a\ mobile\ phone\ contract\ in\ terms\ of\n\ the\ rate\ charged\ for\ phone\ calls.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 2017.10.15\n
+comment1.params=phoneNumber
+comment1.target=PhoneContract(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PhoneContract.\n\ @param\ phoneNumber\ The\ number\ of\ this\ contract.\n
+comment2.params=duration
+comment2.target=void\ makeCall(int)
+comment2.text=\n\ Calculate\ the\ cost\ of\ a\ call\ of\ the\ given\ duration.\n\ @param\ duration\ The\ length\ of\ the\ call\ in\ seconds.\n
+comment3.params=
+comment3.target=void\ sampleMethod()
+comment3.text=\n\ Print\ bill\ details.\n
+comment4.params=
+comment4.target=int\ getBill()
+comment4.text=\n\ Return\ the\ current\ bill,\ in\ cents.\n\ @return\ The\ current\ bill.\n
+comment5.params=
+comment5.target=int\ getTotalDuration()
+comment5.text=\n\ Return\ the\ current\ totalDuration.\n\ @return\ The\ current\ totalDuration.\n
+numComments=6

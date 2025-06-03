@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PhoneRate
+comment0.text=\n\ Details\ of\ a\ phone\ rate.\n\ Rates\ are\ described\ in\ terms\ of\ a\ one-off\ connection\ cost\ applied\n\ to\ all\ calls,\ and\ a\ per-minute\ rate\ in\ cents.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 2017.10.15\n
+comment1.params=connectionCost\ centsPerMinute
+comment1.target=PhoneRate(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PhoneRate.\n\ @param\ connectionCost\ A\ one\ off\ charge\ for\ each\ call.\n\ @param\ centsPerMinute\ The\ cost\ in\ cents\ per\ whole\ minute.\n
+comment2.params=duration
+comment2.target=int\ calculateCost(int)
+comment2.text=\n\ Calculate\ the\ cost\ of\ a\ call\ lasting\ the\ given\ length\ of\ time.\n\ @param\ duration\ The\ length\ of\ the\ call\ in\ seconds.\n\ @return\ The\ cost\ of\ the\ call\ in\ cents.\n
+numComments=3
